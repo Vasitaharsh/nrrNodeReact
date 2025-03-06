@@ -1,0 +1,7 @@
+# Backend
+NRR/node_modules
+NRR/.env
+
+# Frontend
+NRRFront/node_modules
+NRRFront/.env
